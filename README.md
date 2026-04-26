@@ -29,6 +29,8 @@ Education: Information Security, Universitat Oberta de Catalunya (UOC), Spain.
   [74 past events](https://www.meetup.com/manizalestechtalks/events/past/) ·
   [Talks on YouTube](https://www.youtube.com/@manizalestechtalks7590)
 - **AWS User Group Manizales**, co-organizer.
+  [481 members](https://www.meetup.com/aws-user-group-manizales/) ·
+  [22 past events](https://www.meetup.com/aws-user-group-manizales/events/past/) ·
   [github.com/aws-ug-manizales](https://github.com/aws-ug-manizales)
 - **Platzi**, instructor of the *Linux Server Administration* course.
 - **Universidad de Caldas**, professor. First AWS Academy certified
